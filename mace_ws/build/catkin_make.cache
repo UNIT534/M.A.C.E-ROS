@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/cyber/mace_ros/mace_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cyber/mace_ros/mace_ws/install -G Unix Makefiles

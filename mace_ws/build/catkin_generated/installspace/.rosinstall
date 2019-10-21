@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cyber/mace_ros/mace_ws/install/setup.sh

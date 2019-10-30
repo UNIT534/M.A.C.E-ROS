@@ -1,0 +1,3 @@
+[submodule "mace_ws/src/cv_camera"]
+	path = mace_ws/src/cv_camera
+	url = https://github.com/OTL/cv_camera

@@ -1,3 +1,6 @@
 [submodule "mace_ws/src/cv_camera"]
 	path = mace_ws/src/cv_camera
 	url = https://github.com/OTL/cv_camera
+[submodule "mace_ws/src/robot_navigation"]
+	path = mace_ws/src/robot_navigation
+	url = https://github.com/locusrobotics/robot_navigation

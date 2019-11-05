@@ -13,3 +13,7 @@ cv_camera: https://wiki.ros.org/cv_camera
 octomap: https://wiki.ros.org/octomap
 
 Octomap-mapping/server: https://wiki.ros.org/octomap_mapping / https://wiki.ros.org/octomap_server
+
+robot_navigation: https://github.com/locusrobotics/robot_navigation
+
+viso2: https://github.com/srv/viso2

@@ -1,6 +1,8 @@
 # M.A.C.E-ROS
 > M.A.C.E Team 2's ROS Workspace for Mapping, Navigation, Visual Odometry, Etc.
 
+This repo is is a ROS Workspace meant to operate with ROS Melodic. To install this version for Ubuntu, follow these instructions: https://wiki.ros.org/melodic/Installation/Ubuntu
+
 ## Setup
  1. Clone this repo.
  2. sudo apt-get install build-essential cmake doxygen libqt4-dev \
